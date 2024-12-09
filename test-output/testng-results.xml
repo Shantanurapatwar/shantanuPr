@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-08T15:06:00 IST" name="Default suite" finished-at="2024-12-08T15:06:13 IST" duration-ms="13042">
+    <groups>
+    </groups>
+    <test started-at="2024-12-08T15:06:00 IST" name="Default test" finished-at="2024-12-08T15:06:13 IST" duration-ms="13042">
+      <class name="Myntra.OpenBrowser">
+        <test-method is-config="true" signature="condition()[pri:0, instance:Myntra.OpenBrowser@2c177f9e]" started-at="2024-12-08T15:06:00 IST" name="condition" finished-at="2024-12-08T15:06:13 IST" duration-ms="12981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- condition -->
+        <test-method signature="run()[pri:0, instance:Myntra.OpenBrowser@2c177f9e]" started-at="2024-12-08T15:06:13 IST" name="run" finished-at="2024-12-08T15:06:13 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- Myntra.OpenBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
